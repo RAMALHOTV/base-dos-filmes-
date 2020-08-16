@@ -14,7 +14,7 @@
 <channel>
 <name>LANÇAMENTOS</name>
 <thumbnail>https://4.bp.blogspot.com/-PKb3_nsKGxA/WWZHU0sIUfI/AAAAAAAAA-M/JiEWGVy7CwcgEn8n4rrDmE1qY7rEQ__WgCK4BGAYYCw/s400/filmes.png</thumbnail>
-<externallink>https://pastebin.com/raw/5ExsVpKz</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-lan-amentos/master/README.md</externallink>
 <fanart>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/12/cinema-filmes-2020.jpg</fanart>
 <info>Filmes lançamentos por ano</info>
 </channel>
