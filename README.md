@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR blue][B]DIVERSOS FILMES TODAS CATEGORIAS[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/AZR3qm</thumbnail>
-<externallink>https://tinyurl.com/FILMES-PREMIUM-HD</externallink>
+<externallink>https://pastebin.com/raw/1LVjvUVW</externallink>
 <fanart>http://cdn.kaltura.com/p/0/thumbnail/entry_id/0_2qpmnxso/quality/80/width//height//src_x//src_y//src_w/NaN/src_h/NaN/vid_sec/0.jpg</fanart>
 <info>Filmes para Todos os gostos </info>
 </channel>
