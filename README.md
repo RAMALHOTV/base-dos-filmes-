@@ -127,18 +127,11 @@
 <fanart>https://i.ytimg.com/vi/JwOvPvc8ZfE/maxresdefault.jpg</fanart>
 <info>Filmes do genero Nostagia </info>
 </channel>
-<channels>
-<channel>
-<name>Cine Nacional</name>
-<thumbnail>https://ogimg.infoglobo.com.br/in/24117383-3ae-3a4/FT631A/filmes-nacionais-ancine.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/LDukvuyn</externallink>
-<fanart>https://pipocanamadrugada.com.br/site/wp-content/uploads/2016/07/retro-movie_pipoca-na-madrugada-1.jpg</fanart>
-<info>Filmes Nacionais </info>
-</channel>
+
 <channel>
 <name>Filmes youtube</name>
 <thumbnail>https://4.bp.blogspot.com/-PKb3_nsKGxA/WWZHU0sIUfI/AAAAAAAAA-M/JiEWGVy7CwcgEn8n4rrDmE1qY7rEQ__WgCK4BGAYYCw/s400/filmes.png</thumbnail>
-<externallink>https://pastebin.com/raw/3gMvYxkS</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-youtub/master/README.md</externallink>
 <fanart>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/12/cinema-filmes-2020.jpg</fanart>
 <info>Filmes para todos os Gostos  </info>
 </channel>
