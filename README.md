@@ -135,9 +135,7 @@
 <fanart>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/12/cinema-filmes-2020.jpg</fanart>
 <info>Filmes para todos os Gostos  </info>
 </channel>
-
-
-channel>
+<channel>
 <name>Filmes m3u</name>
 <thumbnail>https://4.bp.blogspot.com/-PKb3_nsKGxA/WWZHU0sIUfI/AAAAAAAAA-M/JiEWGVy7CwcgEn8n4rrDmE1qY7rEQ__WgCK4BGAYYCw/s400/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-m3u/master/README.md</externallink>
