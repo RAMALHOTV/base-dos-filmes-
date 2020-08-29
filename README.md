@@ -114,7 +114,7 @@
 <channel>
 <name> Triologia </name>
 <thumbnail>https://4.bp.blogspot.com/-PKb3_nsKGxA/WWZHU0sIUfI/AAAAAAAAA-M/JiEWGVy7CwcgEn8n4rrDmE1qY7rEQ__WgCK4BGAYYCw/s400/filmes.png</thumbnail>
-<externallink>https://pastebin.com/raw/RXX2Y1dY</externallink>
+<externallink>https://pastebin.com/raw/4Hf8ZUct</externallink>
 <fanart>https://statig0.akamaized.net/bancodeimagens/cy/g8/eq/cyg8eq7l4zjsg84j0si00tllw.jpg</fanart>
 <info>Filmes do genero Triologia </info>
 </channel>
