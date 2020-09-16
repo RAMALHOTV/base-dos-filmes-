@@ -89,7 +89,7 @@
 <channel>
 <name>Infantil</name>
 <thumbnail>https://goo.gl/LYseds</thumbnail>
-<externallink>https://pastebin.com/raw/7mH7whdE</externallink>
+<externallink>https://pastebin.com/raw/av9uXeVb</externallink>
 <fanart>https://designersbrasileiros.com.br/wp-content/uploads/2016/01/5-filmes-para-ajudar-sua-vida-profissional.png</fanart>
 <info>Filmes do genero Infantil</info>
 </channel>
