@@ -23,7 +23,7 @@
 <channel>
 <name>Ação</name>
 <thumbnail>https://pastebin.com/raw/qjnhcHJH</thumbnail>
-<externallink>https://pastebin.com/raw/qjnhcHJH</externallink>
+<externallink>https://pastebin.com/raw/igQkfX0Q</externallink>
 <fanart>https://designersbrasileiros.com.br/wp-content/uploads/2016/01/5-filmes-para-ajudar-sua-vida-profissional.png</fanart>
 <info>Filmes do genero açao</info>
 </channel>
@@ -31,7 +31,7 @@
 <channel>
 <name>Aventura</name>
 <thumbnail>https://goo.gl/VNJVbV</thumbnail>
-<externallink>https://pastebin.com/raw/dWguVETR</externallink>
+<externallink>https://pastebin.com/raw/sjzBYP0j</externallink>
 <fanart>https://designersbrasileiros.com.br/wp-content/uploads/2016/01/5-filmes-para-ajudar-sua-vida-profissional.png</fanart>
 <info>Filmes do genero Aventura</info>
 </channel>
