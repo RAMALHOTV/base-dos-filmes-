@@ -131,7 +131,7 @@
 <channel>
 <name>Filmes youtube</name>
 <thumbnail>https://4.bp.blogspot.com/-PKb3_nsKGxA/WWZHU0sIUfI/AAAAAAAAA-M/JiEWGVy7CwcgEn8n4rrDmE1qY7rEQ__WgCK4BGAYYCw/s400/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-youtub/master/README.md</externallink>
+<externallink>https://pastebin.com/raw/NTKmEnBC</externallink>
 <fanart>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/12/cinema-filmes-2020.jpg</fanart>
 <info>Filmes para todos os Gostos  </info>
 </channel>
