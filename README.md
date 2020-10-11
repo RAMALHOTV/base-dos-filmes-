@@ -27,7 +27,7 @@
 <channel>
 <name>[COLOR blue][B] FILMES REDCANAIS [/B][/COLOR]</name>
 <thumbnail>https://redeneobux.com/wp-content/uploads/2016/08/4-2.png</thumbnail>
-<externallink>https://pastebin.com/edit/XdwA8Fyy</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-REDCANAIS-/main/README.md</externallink>
 <fanart>https://lh3.googleusercontent.com/fhRFOjd9R-0giTvZWRB7aJJPYfqmRo-hjp4nTPDwoOWNstImSmW3o7pA38gbxfGn1Q=h250-rw</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI)</info>
 </channel>
