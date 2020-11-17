@@ -37,7 +37,7 @@
 <channel>
 <name>[COLOR blue][B] FILMES Torrents [/B][/COLOR]</name>
 <thumbnail>https://pbs.twimg.com/profile_images/658285161641984000/s3-gptTc.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TORENTE/master/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes2020/master/README.md</externallink>
 <fanart>https://pbs.twimg.com/profile_images/658285161641984000/s3-gptTc.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI)</info>
 </channel>
