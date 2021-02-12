@@ -16,7 +16,7 @@
 <channel>
 <name>[COLOR blue][B]FILMES LHMTv [/B][/COLOR]</name>
 <thumbnail>https://www.abracomex.org/wp-content/uploads/2019/10/dicas-de-filmes-sobre-carreira.jpg</thumbnail>
-<externallink>http://lhmtv.ga/filmes</externallink>
+<externallink>https://tvlistaadonn.blogspot.com/2021/01/movie.html</externallink>
 <fanart>https://oimparcial.com.br/app/uploads/2020/10/Sem-Titulo-1-1024x576.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI)</info>
 </channel>
@@ -37,9 +37,9 @@
   
 <channels>
 <channel>
-<name>[COLOR blue][B] FILMES LINKS DIRETO[/B][/COLOR]</name>
+<name>[COLOR blue][B] FILMES TORENTE[/B][/COLOR]</name>
 <thumbnail>https://redeneobux.com/wp-content/uploads/2016/08/4-2.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-m3u/master/README.md</externallink>
+<externallink>https://tvlistaadonn.blogspot.com/2021/02/torrent.html</externallink>
 <fanart>https://lh3.googleusercontent.com/fhRFOjd9R-0giTvZWRB7aJJPYfqmRo-hjp4nTPDwoOWNstImSmW3o7pA38gbxfGn1Q=h250-rw</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
 </channel>
