@@ -16,7 +16,7 @@
 <channel>
 <name>[COLOR blue][B]FILMES LHMTv [/B][/COLOR]</name>
 <thumbnail>https://www.abracomex.org/wp-content/uploads/2019/10/dicas-de-filmes-sobre-carreira.jpg</thumbnail>
-<externallink>https://tvlistaadonn.blogspot.com/2021/01/movie.html</externallink>
+<externallink>http://lhmtv.ga/djfilmes</externallink>
 <fanart>https://oimparcial.com.br/app/uploads/2020/10/Sem-Titulo-1-1024x576.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI)</info>
 </channel>
