@@ -3,9 +3,9 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B] FILMES YOUTUBE[/B][/COLOR]</name>
-<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2018/11/pplware_youtube_filmes00.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-youtub/master/README.md</externallink>
+<name>[COLOR blue][B] FILMES TORRENTES[/B][/COLOR]</name>
+<thumbnail>https://i0.wp.com/www.torrentfilmes.org/wp-content/uploads/2021/03/logo3.png?fit=281%2C220&ssl=1</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMESTORRENTES/main/README.md</externallink>
 <fanart>https://pplware.sapo.pt/wp-content/uploads/2018/11/pplware_youtube_filmes00.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
 </channel>
