@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR blue][B] FILMES TORRENTES[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/www.torrentfilmes.org/wp-content/uploads/2021/03/logo3.png?fit=281%2C220&ssl=1</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMESTORRENTES/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-dos-filmes-torente/main/README.md</externallink>
 <fanart>https://pplware.sapo.pt/wp-content/uploads/2018/11/pplware_youtube_filmes00.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
 </channel>
@@ -24,15 +24,7 @@
 
 
 
-<channels>
-<channel>
-<name>[COLOR blue][B] FILMES Vip  [/B][/COLOR]</name>
-<thumbnail>https://redeneobux.com/wp-content/uploads/2016/08/4-2.png</thumbnail>
-<externallink>https://pastebin.com/raw/uk0vxPsW</externallink>
-<fanart>https://lh3.googleusercontent.com/fhRFOjd9R-0giTvZWRB7aJJPYfqmRo-hjp4nTPDwoOWNstImSmW3o7pA38gbxfGn1Q=h250-rw</fanart>
-<info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
-</channel>
-<channels>
+
   
   
 
