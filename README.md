@@ -11,6 +11,17 @@
 </channel>
 <channels>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]FILMES 2018 [/B][/COLOR]</name>
+<thumbnail>https://cinematographecinemafilmes.files.wordpress.com/2018/05/melhores-filmes-cinematographe-2018-19.png?w=600&h=406</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-2018/main/README.md</externallink>
+<fanart>https://assets.papelpop.com/wp-content/uploads/2017/12/filmes-20181.jpg</fanart>
+<info>BigBazTecnologia criador do ADDON -- DIRCEU [COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (44)998656144[/COLOR][/B]</info>
+<genre>Dirceu Filmes (44)998656144</genre></info>
+</channel>
+<channels>
 
 <channels>
 <channel>
