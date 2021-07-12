@@ -14,9 +14,9 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]FILMES  [/B][/COLOR]</name>
+<name>[COLOR blue][B]FILMES Links Diretos [/B][/COLOR]</name>
 <thumbnail>https://www.abracomex.org/wp-content/uploads/2019/10/dicas-de-filmes-sobre-carreira.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmesazvod/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-REDCANAIS-/main/README.md</externallink>
 <fanart>https://oimparcial.com.br/app/uploads/2020/10/Sem-Titulo-1-1024x576.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI)</info>
 </channel>
