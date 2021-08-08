@@ -11,6 +11,15 @@
 </channel>
 <channels>
 
+ <channels>
+<channel>
+<name>[COLOR gold][B]MAX[COLOR lime]torrent[/B][/COLOR][/B][/COLOR]</name>
+<thumbnail>http://point242br.xyz/53652343663/dicas/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TERROR-2/main/README.md</externallink>
+<fanart>http://point242br.xyz/53652343663/dicas/filmes.png</fanart>
+<info>CREDITOS AO  ADDON -MAX torrent (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
+</channel>
+<channels>
 
 <channels>
 <channel>
